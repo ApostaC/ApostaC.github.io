@@ -33,9 +33,9 @@ redirect_from:
 
 I am Yihua Cheng, a rising 4th-year CS Ph.D. student in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My current research interest is real-time video streaming systems. I'm also interested in high-performance data-processing systems. I got my bachelor degree in Peking University. Here is my [CV](/assets/1.pdf).
 
-Email: yihua98@uchicago.edu
+Email: *yihua98@uchicago.edu*
 
-[Github](https://github.com/ApostaC/)
+[Github](https://github.com/ApostaC/): https://github.com/ApostaC
 
 
 
