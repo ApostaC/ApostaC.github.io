@@ -29,7 +29,7 @@ redirect_from:
 
 <!-- <img src="/assets/icon.jpeg" style="width:500px"/> -->
 
-<img class="image image--lg" src="/assets/photo.jpg"/>
+<img class="image image--lg" src="/assets/photo2.jpeg"/>
 
 Hi, There! This is Yihua Cheng, a rising 4th-year CS Ph.D. candidate in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My research is focusing on computer networks and systems. Specifically, I'm interested in real-time video streaming systems and high-performance data-processing systems. I got my bachelor degree in Peking University in 2020. Here is my [CV](/assets/1.pdf).
 
@@ -43,7 +43,7 @@ Email: *yihua98@uchicago.edu*
 
 [Raising the Level of Abstraction for Time-State Analytics With the Timeline Framework](https://www.cidrdb.org/cidr2023/papers/p22-milner.pdf)
 
-Henry Milner, **Yihua Cheng (Conviva)**, Jibin Zhan, Hui Zhang, Vyas Sekar, Junchen Jiang, Ion Stoica 
+Henry Milner, **Yihua Cheng**, Jibin Zhan, Hui Zhang, Vyas Sekar, Junchen Jiang, Ion Stoica 
 
 *CIDR 2023*
 
