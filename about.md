@@ -31,7 +31,11 @@ redirect_from:
 
 <img class="image image--lg" src="/assets/photo2.jpeg"/>
 
-Hi, There! This is Yihua Cheng, a rising 4th-year CS Ph.D. candidate in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. My research is focusing on computer networks and systems. Specifically, I'm interested in real-time video streaming systems and high-performance data-processing systems. I got my bachelor degree in Peking University in 2020. Here is my [CV](/assets/1.pdf).
+Hi, There! This is Yihua Cheng, a 4th-year CS Ph.D. in University of Chicago, advised by <a href="https://people.cs.uchicago.edu/~junchenj/"> Junchen Jiang </a>. 
+My research is focusing on computer networks and systems and I'm interested in systems for data streaming. 
+Specifically, my research covers the <a herf="https://www.usenix.org/conference/nsdi24/presentation/cheng">real-time video streaming</a>, <a herf="">streaming data analysis</a>, and <a herf="https://arxiv.org/abs/2310.07240">KV cache streaming optimization for LLM serving</a>. 
+I got my bachelor degree in Peking University in 2020. 
+Here is my [CV](/assets/1.pdf).
 
 Email: *yihua98@uchicago.edu*
 
@@ -41,27 +45,43 @@ Email: *yihua98@uchicago.edu*
 
 ## Recent publications
 
+[GRACE: Loss-Resilient Real-Time Video through Neural Codecs](https://www.usenix.org/conference/nsdi24/presentation/cheng)
+
+**Yihua Cheng**, Ziyi Zhang, Hanchen Li, Anton Arapin, Yue Zhang, Yuhan Liu, Kuntai Du, Xu Zhang, Francis Y. Yan, Amrita Mazumdar, Nick Feamster, Junchen Jiang
+
+*NSDI 2024*
+
+----
+
+[CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving](https://arxiv.org/abs/2310.07240)
+
+Yuhan Liu, Hanchen Li, **Yihua Cheng**, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang
+
+*In submission*
+
+----
+
+[Earth+: on-board satellite imagery compression leveraging historical earth observations](https://arxiv.org/abs/2403.11434)
+
+Kuntai Du, **Yihua Cheng**, Peder Olsen, Shadi Noghabi, Ranveer Chandra, Junchen Jiang
+
+*In submission*
+
+----
+
+[Online Profiling and Adaptation of Quality Sensitivity for Internet Video](https://dl.acm.org/doi/10.1145/3620678.3624788)
+
+**Yihua Cheng**, Hui Zhang, Junchen Jiang
+
+*SoCC 2023*
+
+----
+
 [Raising the Level of Abstraction for Time-State Analytics With the Timeline Framework](https://www.cidrdb.org/cidr2023/papers/p22-milner.pdf)
 
 Henry Milner, **Yihua Cheng**, Jibin Zhan, Hui Zhang, Vyas Sekar, Junchen Jiang, Ion Stoica 
 
 *CIDR 2023*
-
-----
-
-[Grace++: Loss-Resilient Real-Time Video Communication under High Network Latency](https://arxiv.org/abs/2305.12333)
-
-**Yihua Cheng**, Anton Arapin, Ziyi Zhang, Qizheng Zhang, Hanchen Li, Yuhan Liu, Xu Zhang, Nick Feamster, Junchen Jiang
-
-*Preprint*
-
----- 
-
-[GRACE: Loss-Resilient Real-Time Video Communication Using Data-Scalable Autoencoder](https://arxiv.org/abs/2210.16639)
-
-**Yihua Cheng**, Anton Arapin, Ziyi Zhang, Qizheng Zhang, Hanchen Li, Nick Feamster, Junchen Jiang
-
-*Preprint*
 
 ----
 
@@ -78,7 +98,7 @@ Yunzhe Ni, Feng Qian, Taide Liu, **Yihua Cheng**, Zhiyao Ma, Jing Wang, Zhongfen
 
 **Research/engineering intern**, 2020.10-2021.3, 2022.6-2022.12, 2023.6-now
 
-- Design and implementation of the data processing engine for [Time-State Analytics](https://www.cidrdb.org/cidr2023/papers/p22-milner.pdf).
+- Initial design and implementation of the data processing engine for [Time-State Analytics](https://www.cidrdb.org/cidr2023/papers/p22-milner.pdf).
 
 - Content-based video QoE analysis 
 
