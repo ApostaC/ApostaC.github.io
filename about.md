@@ -51,6 +51,8 @@ Email: *yihua98@uchicago.edu*
 
 *NSDI 2024*
 
+<a herf="https://uchi-jcl.github.io/grace.html">Project website</a>, Demo video (coming soon), [Talk slides](/assets/grace-slides.pdf)
+
 ----
 
 [CacheGen: KV Cache Compression and Streaming for Fast Language Model Serving](https://arxiv.org/abs/2310.07240)
@@ -58,6 +60,8 @@ Email: *yihua98@uchicago.edu*
 Yuhan Liu, Hanchen Li, **Yihua Cheng**, Siddhant Ray, Yuyang Huang, Qizheng Zhang, Kuntai Du, Jiayi Yao, Shan Lu, Ganesh Ananthanarayanan, Michael Maire, Henry Hoffmann, Ari Holtzman, Junchen Jiang
 
 *In submission*
+
+[Project Website](https://github.com/UChi-JCL/CacheGen)
 
 ----
 
@@ -75,6 +79,8 @@ Kuntai Du, **Yihua Cheng**, Peder Olsen, Shadi Noghabi, Ranveer Chandra, Junchen
 
 *SoCC 2023*
 
+[Talk slides](/assets/sensitiflow-slides.pdf)
+
 ----
 
 [Raising the Level of Abstraction for Time-State Analytics With the Timeline Framework](https://www.cidrdb.org/cidr2023/papers/p22-milner.pdf)
@@ -91,10 +97,18 @@ Yunzhe Ni, Feng Qian, Taide Liu, **Yihua Cheng**, Zhiyao Ma, Jing Wang, Zhongfen
 
 *NSDI 2023*
 
+----
+
+[An Active-Passive Measurement Study of TCP Performance over LTE on High-speed Rails](https://dl.acm.org/doi/abs/10.1145/3300061.3300123)
+
+Jing Wang, Yufan Zheng, Yunzhe Ni, Chenren Xu, Feng Qian, Wangyang Li, Wantong Jiang, **Yihua Cheng**, Zhuo Cheng, Yuanjie Li, Xiufeng Xie, Yi Sun, Zhongfeng Wang
+
+*Mobicom 2019*
+
 
 ## Industry Experience
 
-#### At Conviva
+#### At <a herf="https://www.conviva.com/">Conviva</a>
 
 **Research/engineering intern**, 2020.10-2021.3, 2022.6-2022.12, 2023.6-now
 
