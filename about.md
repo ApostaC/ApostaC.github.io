@@ -35,7 +35,7 @@ Hi, There! This is Yihua Cheng, a 4th-year CS Ph.D. in University of Chicago, ad
 My research is focusing on computer networks and systems and I'm interested in systems for data streaming. 
 Specifically, my research covers the <a herf="https://www.usenix.org/conference/nsdi24/presentation/cheng">real-time video streaming</a>, <a herf="">streaming data analysis</a>, and <a herf="https://arxiv.org/abs/2310.07240">KV cache streaming optimization for LLM serving</a>. 
 I got my bachelor degree in Peking University in 2020. 
-Here is my [CV](/assets/1.pdf).
+Here is my [CV](/assets/cv.pdf).
 
 Email: *yihua98@uchicago.edu*
 
