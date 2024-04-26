@@ -91,6 +91,14 @@ Henry Milner, **Yihua Cheng**, Jibin Zhan, Hui Zhang, Vyas Sekar, Junchen Jiang,
 
 ----
 
+[Enabling Perception-Driven Optimization in Networking](https://dl.acm.org/doi/10.1145/3626570.3626608)
+
+**Yihua Cheng**, Xu Zhang, Junchen Jiang
+
+*SIGMETRICS 2023*
+
+----
+
 [POLYCORN: Data-driven Cross-layer Multipath Networking for High-speed Railway through Composable Schedulerlets](https://www.usenix.org/conference/nsdi23/presentation/ni)
 
 Yunzhe Ni, Feng Qian, Taide Liu, **Yihua Cheng**, Zhiyao Ma, Jing Wang, Zhongfeng Wang, Gang Huang, Xuanzhe Liu, Chenren Xu
